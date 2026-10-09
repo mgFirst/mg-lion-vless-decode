@@ -1,0 +1,8 @@
+name = "mg-lion-vless"
+main = "_worker.js"
+compatibility_date = "2025-11-04"
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"			#KV绑定名默认不可修改
+id = "6a4c4470ed6f43618e4e163a0e9bc677"				#KV数据库id
